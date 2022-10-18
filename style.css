@@ -126,7 +126,7 @@ ul.topnav li.right {float: right;}
 
 
 
-@media screen and (min-width: 1000px) and (max-width:1400px) {
+@media screen and (min-width: 1000px) and (max-width:1400px) and (min-height:600px) and (max-height:1000) {
   ul.topnav li.right, 
   ul.topnav li {float: none;}
   h1.Name {font-size: 3em;}
