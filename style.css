@@ -120,11 +120,71 @@ ul.topnav li.right {float: right;}
     margin-left: -0.4em;
     font-family: 'Montserrat';
   }
-
-
-
-
 }
+
+
+
+
+
+@media screen and (min-width: 900px) and (max-width:1300px) {
+  ul.topnav li.right, 
+  ul.topnav li {float: none;}
+  h1.Name {font-size: 3em;}
+  h1.Build {font-size: 3em;}
+  ul.topnav {margin-right: 0px;}
+  li:first-child {border-radius: 1em;}
+  div.vl2{
+    margin-top: 30px;
+  }
+  ul.fa-ul {
+    margin-top:13em;
+    font-size: 1em;
+  }
+  div.vl {
+    margin-top: 30px;
+  }
+  h1.email {
+   bottom:11em;
+   margin-right: -0.25em;
+   font-size: 1em;
+  }
+  h1.email:hover {color:#16c98d; top:-11.5em;}
+
+  p.para {
+    font-size: 1.2em;
+    margin-top: -0.7em;
+    margin-left: -0.4em;
+    font-family: 'Montserrat';
+  }
+
+  p.para2{
+    font-size: 1.2em;
+    margin-left: -0.4em;
+    font-family: 'Montserrat';
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
