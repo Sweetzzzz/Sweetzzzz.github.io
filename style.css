@@ -43,6 +43,7 @@ ul.topnav li a.active {background-color: #04AA6D;} */
 ul.topnav li.right {float: right;}
 
 @media screen and (max-width: 400px) {
+  body {overflow-y: hidden;}
   ul.topnav li.right, 
   ul.topnav li {float: none;}
   h1.Name {font-size: 3em;}
