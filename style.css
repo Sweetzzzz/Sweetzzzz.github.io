@@ -188,6 +188,12 @@ a:visited {
   color:inherit;
 }
 
+a {
+  color: inherit;
+}
+
+
+
 .fa-ul {
   margin-top: 16%;
   margin-left: 3em;
