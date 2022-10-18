@@ -70,10 +70,12 @@ ul.topnav li.right {float: right;}
 
   p.para {
     font-size: 1em;
+    font-family: 'Montserrat';
   }
 
   p.para2{
     font-size: 1em;
+    font-family: 'Montserrat';
   }
 
 
@@ -110,11 +112,13 @@ ul.topnav li.right {float: right;}
     font-size: 1.2em;
     margin-top: -0.7em;
     margin-left: -0.4em;
+    font-family: 'Montserrat';
   }
 
   p.para2{
     font-size: 1.2em;
     margin-left: -0.4em;
+    font-family: 'Montserrat';
   }
 
 
