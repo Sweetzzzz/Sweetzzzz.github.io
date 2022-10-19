@@ -121,7 +121,7 @@ ul.topnav li.right {float: right;}
 }
 
 
-@media screen and (max-width: 1300px) and (min-width:1000px) {
+/* @media screen and (max-width: 1300px) and (min-width:1000px) {
   ul.topnav li.right, 
   ul.topnav li {float: none;}
   h1.Name {font-size: 3em;}
@@ -132,7 +132,7 @@ ul.topnav li.right {float: right;}
     margin-top: 30px;
   }
   ul.fa-ul {
-    margin-top: 0em; /* 12*/
+    margin-top: 0em; 
     font-size: 1em;
   }
   div.vl {
@@ -157,7 +157,7 @@ ul.topnav li.right {float: right;}
     margin-left: -0.4em;
     font-family: 'Montserrat';
   }
-}
+} */
 
 
 
