@@ -132,7 +132,7 @@ ul.topnav li.right {float: right;}
     margin-top: 30px;
   }
   ul.fa-ul {
-    margin-top: 5em;
+    margin-top: 0em; /* 12*/
     font-size: 1em;
   }
   div.vl {
@@ -232,7 +232,7 @@ a {
 
 
 .fa-ul {
-  margin-top: 16%;
+  margin-top: 16%; /*20*/
   margin-left: 3em;
   color: #a8b2d1;
 }
