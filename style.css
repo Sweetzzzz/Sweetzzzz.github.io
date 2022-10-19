@@ -47,24 +47,25 @@ ul.topnav li.right {float: right;}
   body {overflow-y: hidden;}
   ul.topnav li.right, 
   ul.topnav li {float: none;}
-  h1.Name {font-size: 3em;}
-  h1.Build {font-size: 3em;}
+  h1.Name {font-size: 2.5em;}
+  h1.Build {font-size: 2.5em;}
   ul.topnav {margin-right: 0px;}
   li:first-child {border-radius: 1em;}
   div.vl2{
-    margin-top: 80px;
+    margin-top: 30px;
   }
   ul.fa-ul {
-    margin-top: 3em;
+    margin-top: 4em;
     font-size: 0.5em;
   }
   div.vl {
-    margin-top: 100px;
+    margin-top: 30px;
   }
   h1.email {
-   bottom:13em;
-   margin-right: -0.5em;
+   bottom:12.5em;
+   margin-right: -0.95em;
    font-size: 1em;
+
   }
   h1.email:hover {color:#16c98d; top:-13.5em;}
 
@@ -77,33 +78,30 @@ ul.topnav li.right {float: right;}
     font-size: 1em;
     font-family: 'Montserrat';
   }
-
-
-
 }
 
 
 
-@media screen and (min-width: 500px) and (max-width:1300px) {
+@media screen and (max-width: 500px) and (min-width:410px) {
   ul.topnav li.right, 
   ul.topnav li {float: none;}
-  h1.Name {font-size: 3em;}
-  h1.Build {font-size: 3em;}
+  h1.Name {font-size: 2em;}
+  h1.Build {font-size: 2em;}
   ul.topnav {margin-right: 0px;}
   li:first-child {border-radius: 1em;}
   div.vl2{
     margin-top: 30px;
   }
   ul.fa-ul {
-    margin-top: 10em;
-    font-size: 1em;
+    margin-top: 11em;
+    font-size: 0.7em;
   }
   div.vl {
     margin-top: 30px;
   }
   h1.email {
-   bottom:11em;
-   margin-right: -0.25em;
+   bottom:12em;
+   margin-right: -0.7em;
    font-size: 1em;
   }
   h1.email:hover {color:#16c98d; top:-11.5em;}
@@ -123,21 +121,43 @@ ul.topnav li.right {float: right;}
 }
 
 
+@media screen and (max-width: 1300px) and (min-width:1000px) {
+  ul.topnav li.right, 
+  ul.topnav li {float: none;}
+  h1.Name {font-size: 3em;}
+  h1.Build {font-size: 3em;}
+  ul.topnav {margin-right: 0px;}
+  li:first-child {border-radius: 1em;}
+  div.vl2{
+    margin-top: 30px;
+  }
+  ul.fa-ul {
+    margin-top: 12em;
+    font-size: 1em;
+  }
+  div.vl {
+    margin-top: 30px;
+  }
+  h1.email {
+   bottom:10.5em;
+   margin-right: -0.40em;
+   font-size: 1em;
+  }
+  h1.email:hover {color:#16c98d; top:-11.5em;}
 
+  p.para {
+    font-size: 1.2em;
+    margin-top: -0.7em;
+    margin-left: -0.4em;
+    font-family: 'Montserrat';
+  }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+  p.para2{
+    font-size: 1.2em;
+    margin-left: -0.4em;
+    font-family: 'Montserrat';
+  }
+}
 
 
 
@@ -212,7 +232,7 @@ a {
 
 
 .fa-ul {
-  margin-top: 16%;
+  margin-top: 21%;
   margin-left: 3em;
   color: #a8b2d1;
 }
@@ -268,7 +288,7 @@ h1.email:hover {color:#16c98d; bottom:9.8em;}
   text-orientation: mixed;
   position: relative;
   bottom: 9.8em;
-  right: 3.3em;
+  right: 3.5em;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
   font-size: 12px;
   line-height: 18px;
